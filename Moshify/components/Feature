@@ -1,0 +1,58 @@
+<!-- Feature -->
+    <section class="block container">
+      <header class="block__header">
+        <h2>Host on the Clound to Keep Growing</h2>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit,
+          corporis.
+        </p>
+      </header>
+      <article class="grid grid--1x2 feature">
+        <div>
+          <span class="icon-container">
+            <svg class="icon icon--primary">
+              <use xlink:href="images/sprite.svg#growth"></use>
+            </svg>
+          </span>
+          <h3 class="feature__heading">Super Easy to Use</h3>
+          <p>
+            Strom fiber i very efficient inter net in sabzazar society.Strom
+            fiber i very efficient inter net in sabzazar society.Strom fiber i
+            very efficient inter net in sabzazar society.
+          </p>
+          <a href="#" class="link-arrow">Learn more</a>
+        </div>
+        <img class="feature__image" src="/images/easy.jpg" alt="" />
+      </article>
+      <article class="grid grid--1x2 feature">
+        <div>
+          <span class="icon-container">
+            <svg class="icon icon--primary">
+              <use xlink:href="images/sprite.svg#growth"></use>
+            </svg>
+          </span>
+          <h3 class="feature__heading">Simply Fast Website</h3>
+          <p>
+            A challenge for fahad if he observed what i have written here...!
+          </p>
+          <a href="#" class="link-arrow">Learn more</a>
+        </div>
+        <img class="feature__image" src="images/fast.jpg" alt="" />
+      </article>
+
+      <article class="grid grid--1x2 feature">
+        <div>
+          <span class="icon-container">
+            <svg class="icon icon--primary">
+              <use xlink:href="images/sprite.svg#growth"></use>
+            </svg>
+          </span>
+          <h3 class="feature__heading">Effective WordPress</h3>
+          <p>
+            A challenge for fahad if he observed what i have written here...!
+          </p>
+          <a href="#" class="link-arrow">Learn more</a>
+        </div>
+        <img class="feature__image" src="images/wordpress.jpg" alt="" />
+      </article>
+    </section>
